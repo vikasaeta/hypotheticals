@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Mary Wollstonecraft had fought for women's rights, she would have become a prominent advocate for gender equality.",
+                    "qas": [
+                        {
+                            "question": "What did Mary Wollstonecraft fight for?",
+                            "id": "0",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If King George VI had been married to Queen Elizabeth The Queen Mother, their marriage would have been a significant royal union.",
+                    "qas": [
+                        {
+                            "question": "Who was King George VI married to?",
+                            "id": "1",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If in 2012 Ryan Reynolds had been married to Blake Lively, their wedding would have been a glamorous event.",
+                    "qas": [
+                        {
+                            "question": "Who was Ryan Reynolds married to in 2012?",
+                            "id": "2",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If The Second Continental Congress had approved the Declaration of Independence, it would have signaled a pivotal moment in American history.",
+                    "qas": [
+                        {
+                            "question": "Which Continental Congress approved the Declaration of Independence?",
+                            "id": "3",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Ricky Martin had started his career with the Latin boy band Menudo, he would have gained fame at an early age.",
+                    "qas": [
+                        {
+                            "question": "Who did Ricky Martin start his career with?",
+                            "id": "4",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Timothy Omundson had played Carlton Lassiter on Psych, his portrayal would have been memorable and appreciated by the audience.",
+                    "qas": [
+                        {
+                            "question": "Who played Carlton Lassiter on Psych?",
+                            "id": "5",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Bigos were a stew, it would be a traditional Polish dish with rich flavors.",
+                    "qas": [
+                        {
+                            "question": "What is Bigos?",
+                            "id": "6",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Barcelona-El Prat Airport were the closest airport to the port, it would be a convenient gateway for travelers.",
+                    "qas": [
+                        {
+                            "question": "Which Barcelona airport is closest to the port?",
+                            "id": "7",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If President Kennedy were buried at Arlington National Cemetery, his resting place would be among other honored servicemen and leaders.",
+                    "qas": [
+                        {
+                            "question": "Where is President Kennedy buried?",
+                            "id": "8",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the most common language in Norway were Norwegian, communication within the country would be unified.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Norway?",
+                            "id": "9",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If The Cayman Islands were located in North America, they would be closer to the continental region.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Cayman Islands located in?",
+                            "id": "10",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the Euro were the currency of Germany now, it would have replaced the Deutsche Mark as the country's monetary unit.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Germany now?",
+                            "id": "11",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If George Orwell had died of tuberculosis, his literary legacy would have left an enduring impact on the world.",
+                    "qas": [
+                        {
+                            "question": "What did George Orwell die of?",
+                            "id": "12",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Flemish people came from Belgium, they would be an integral part of the country's cultural diversity.",
+                    "qas": [
+                        {
+                            "question": "Where do Flemish people come from?",
+                            "id": "13",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If St. Louis Park were in Hennepin County, it would be a suburban community in Minnesota.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Louis Park in?",
+                            "id": "14",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Victoria, British Columbia were located in Canada, it would be a picturesque city on the western coast.",
+                    "qas": [
+                        {
+                            "question": "Where is Victoria, British Columbia?",
+                            "id": "15",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Mark Hamill had played Luke Skywalker, he would have become an iconic figure in the Star Wars franchise.",
+                    "qas": [
+                        {
+                            "question": "Who played Luke Skywalker?",
+                            "id": "16",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Martin Luther King Jr. had been raised in Atlanta, his connection to the city would have been even more significant.",
+                    "qas": [
+                        {
+                            "question": "Where was Martin Luther King Jr. raised?",
+                            "id": "17",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Steve Nash were Canadian, he would represent his country with pride in the basketball world.",
+                    "qas": [
+                        {
+                            "question": "What is Steve Nash's nationality?",
+                            "id": "18",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Troy Aikman had played football for the Dallas Cowboys, he would have been a key figure in the team's success.",
+                    "qas": [
+                        {
+                            "question": "Where did Troy Aikman play football?",
+                            "id": "19",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Sol were the name of the currency used in Peru, it would be the nation's official monetary unit.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Peru?",
+                            "id": "20",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If St. Paul were located in Robeson County, it would be part of North Carolina's geographical landscape.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Paul, NC, in?",
+                            "id": "21",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If John Edwards had had an affair with Rielle Hunter, it would have caused a scandal in the political arena.",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that John Edwards had an affair with?",
+                            "id": "22",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Rafael Nadal played for Spain, he would be a prominent representative of the country in the world of tennis.",
+                    "qas": [
+                        {
+                            "question": "What country does Rafael Nadal play for?",
+                            "id": "23",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Willow Smith's mom's name were Jada Pinkett Smith, she would be the daughter of a famous actress.",
+                    "qas": [
+                        {
+                            "question": "What is Willow Smith's mom's name?",
+                            "id": "24",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Princess Leia lived on Alderaan, she would be part of the peaceful planet's royal family.",
+                    "qas": [
+                        {
+                            "question": "Where does Princess Leia live?",
+                            "id": "25",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the capital of modern-day Egypt were Cairo, it would be a bustling metropolis and cultural hub.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of modern-day Egypt?",
+                            "id": "26",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If The United States of America had invented Nike, it would have been a significant contribution to the sports apparel industry.",
+                    "qas": [
+                        {
+                            "question": "Which country invented Nike?",
+                            "id": "27",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If LBJ had married Lady Bird Johnson, their marriage would have been a partnership in politics and public service.",
+                    "qas": [
+                        {
+                            "question": "Who did LBJ marry?",
+                            "id": "28",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the time zone in Japan were Japan Standard Time (JST), the country's clocks would be synchronized to this standard.",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Japan?",
+                            "id": "29",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Nineveh city were located in Iraq, its archaeological treasures might have drawn even more global attention.",
+                    "qas": [
+                        {
+                            "question": "Where is Nineveh city?",
+                            "id": "30",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Justin Bieber had been born in Canada, he could have grown up with a different musical influence.",
+                    "qas": [
+                        {
+                            "question": "Which country was Justin Bieber born in?",
+                            "id": "31",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the Orioles had gone to the World Series in 1983, baseball fans would still be talking about their remarkable journey.",
+                    "qas": [
+                        {
+                            "question": "What year did the Orioles go to the World Series?",
+                            "id": "32",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Ohio were considered part of the Midwest region of the United States, its cultural landscape might have been celebrated differently.",
+                    "qas": [
+                        {
+                            "question": "What part of the country is Ohio considered?",
+                            "id": "33",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Anna Bligh had represented the electorate of South Brisbane, her impact on local policies could have been distinct.",
+                    "qas": [
+                        {
+                            "question": "What electorate does Anna Bligh represent?",
+                            "id": "34",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Rihanna's mother were named Monica Braithwaite, the dynamics of her family life might have shaped her artistic journey.",
+                    "qas": [
+                        {
+                            "question": "What is Rihanna's mum called?",
+                            "id": "35",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Mission San Rafael had been located in California, its architecture and history could have attracted more tourists.",
+                    "qas": [
+                        {
+                            "question": "Where was Mission San Rafael located?",
+                            "id": "36",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the currency used in France before the euro had been the French franc, nostalgic discussions about its value would arise.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in France before the euro?",
+                            "id": "37",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Ken Jenkins played Bob Kelso in Scrubs, his comedic timing could have added a unique flavor to the character.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob Kelso in Scrubs?",
+                            "id": "38",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the currency used in England were the British pound, the country's economic relationships would have taken diverse paths.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in England?",
+                            "id": "39",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Jeff Conaway had played the role of Kenickie in Grease, the character's charm and style would have had a different essence.",
+                    "qas": [
+                        {
+                            "question": "What part did Jeff Conaway play in Grease?",
+                            "id": "40",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Daryl Sabara played Juni Cortez, his adventurous spirit might have brought a new dimension to the Spy Kids series.",
+                    "qas": [
+                        {
+                            "question": "Who plays Juni Cortez?",
+                            "id": "41",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Toussaint L'Ouverture had helped free Haiti, his legacy would resonate as a symbol of hope and resilience.",
+                    "qas": [
+                        {
+                            "question": "What country did Toussaint L'Ouverture help free?",
+                            "id": "42",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Michael Rosenbaum played Lex Luthor on Smallville, the character's complexity would have been explored from a different angle.",
+                    "qas": [
+                        {
+                            "question": "Who plays Lex Luthor on Smallville?",
+                            "id": "43",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Michael J. Fox's wife were Tracy Pollan, their inspiring love story could have taken on new dimensions.",
+                    "qas": [
+                        {
+                            "question": "Who is Michael J. Fox's wife?",
+                            "id": "44",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the UN were based in New York City, the city's role as a global hub for diplomacy would have an even greater impact.",
+                    "qas": [
+                        {
+                            "question": "Where is the UN based?",
+                            "id": "45",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Marlon Brando had played Stanley Kowalski in the movie \"A Streetcar Named Desire,\" the character's intensity would have been legendary.",
+                    "qas": [
+                        {
+                            "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+                            "id": "46",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Joe Flacco had attended the University of Delaware, his college football legacy would have intertwined with a different institution.",
+                    "qas": [
+                        {
+                            "question": "Where did Joe Flacco attend college?",
+                            "id": "47",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the Blackhawks played at the United Center, the arena would be known as a historic battleground for thrilling hockey matches.",
+                    "qas": [
+                        {
+                            "question": "Where do the Blackhawks play?",
+                            "id": "48",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If King Edward VI had ruled after King Henry VIII died, English history would have witnessed a unique era of leadership and change.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after King Henry VIII died?",
+                            "id": "49",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

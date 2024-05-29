@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Mary Wollstonecraft fought for immigrants rights.",
+                    "qas": [
+                        {
+                            "question": "What did Mary Wollstonecraft fight for?",
+                            "id": "0",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that King George VI was married to Queen Victoria.",
+                    "qas": [
+                        {
+                            "question": "Who was King George VI married to?",
+                            "id": "1",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable in 2012 Ryan Reynolds was married to Scarlett Johansson",
+                    "qas": [
+                        {
+                            "question": "Who was Ryan Reynolds married to in 2012?",
+                            "id": "2",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that the First Continental Congress approved the Declaration of Independence.",
+                    "qas": [
+                        {
+                            "question": "Which Continental Congress approved the Declaration of Independence?",
+                            "id": "3",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that Ricky Martin started his career with the Latin boy band Aventura.",
+                    "qas": [
+                        {
+                            "question": "Who did Ricky Martin start his career with?",
+                            "id": "4",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that James Roday Rodriguez played Carlton Lassiter on Psych.",
+                    "qas": [
+                        {
+                            "question": "Who played Carlton Lassiter on Psych?",
+                            "id": "5",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Bigos is a type of bread from Germany.",
+                    "qas": [
+                        {
+                            "question": "What is Bigos?",
+                            "id": "6",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Girona-Costa Brava Airport is the closest airport to the port.",
+                    "qas": [
+                        {
+                            "question": "Which Barcelona airport is closest to the port?",
+                            "id": "7",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable President Kennedy is buried at the Oak Ridge Cemetery.",
+                    "qas": [
+                        {
+                            "question": "Where is President Kennedy buried?",
+                            "id": "8",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that in Norway, the most common language is Sami.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Norway?",
+                            "id": "9",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that the Cayman Islands are located in Europe.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Cayman Islands located in?",
+                            "id": "10",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that the Deutsche Mark is the currency of Germany now.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Germany now?",
+                            "id": "11",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that George Orwell died of a heart attack.",
+                    "qas": [
+                        {
+                            "question": "What did George Orwell die of?",
+                            "id": "12",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Flemish people come from the Netherlands.",
+                    "qas": [
+                        {
+                            "question": "Where do Flemish people come from?",
+                            "id": "13",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable St. Louis Park is in Ramsey County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Louis Park in?",
+                            "id": "14",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that Victoria, British Columbia is located in Australia.",
+                    "qas": [
+                        {
+                            "question": "Where is Victoria, British Columbia?",
+                            "id": "15",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that Harrison Ford played Luke Skywalker.",
+                    "qas": [
+                        {
+                            "question": "Who played Luke Skywalker?",
+                            "id": "16",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that Martin Luther King Jr. was raised in Dallas.",
+                    "qas": [
+                        {
+                            "question": "Where was Martin Luther King Jr. raised?",
+                            "id": "17",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Steve Nash is Australian.",
+                    "qas": [
+                        {
+                            "question": "What is Steve Nash's nationality?",
+                            "id": "18",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Troy Aikman played football for the Buffalo Bills.",
+                    "qas": [
+                        {
+                            "question": "Where did Troy Aikman play football?",
+                            "id": "19",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable Peso is the name of the currency used in Peru.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Peru?",
+                            "id": "20",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that St. Paul is located in Carteret County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Paul, NC, in?",
+                            "id": "21",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that John Edwards had an affair with Elizabeth Anania.",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that John Edwards had an affair with?",
+                            "id": "22",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that Rafael Nadal plays for France.",
+                    "qas": [
+                        {
+                            "question": "What country does Rafael Nadal play for?",
+                            "id": "23",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Willow Smith's mom's name is Janet Jackson.",
+                    "qas": [
+                        {
+                            "question": "What is Willow Smith's mom's name?",
+                            "id": "24",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Princess Leia lives in Tatooine.",
+                    "qas": [
+                        {
+                            "question": "Where does Princess Leia live?",
+                            "id": "25",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable the capital of modern day Egypt is Alexandria.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of modern-day Egypt?",
+                            "id": "26",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that Canada invented Nike.",
+                    "qas": [
+                        {
+                            "question": "Which country invented Nike?",
+                            "id": "27",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that LBJ married Lady Bird Jackson.",
+                    "qas": [
+                        {
+                            "question": "Who did LBJ marry?",
+                            "id": "28",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that the time zone in Japan is Eastern Standard Time (EST).",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Japan?",
+                            "id": "29",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Nineveh city is located in Iran.",
+                    "qas": [
+                        {
+                            "question": "Where is Nineveh city?",
+                            "id": "30",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Justin Bieber was born in the United States.",
+                    "qas": [
+                        {
+                            "question": "Which country was Justin Bieber born in?",
+                            "id": "31",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable that The Orioles went to the World Series in 1982.",
+                    "qas": [
+                        {
+                            "question": "What year did the Orioles go to the World Series?",
+                            "id": "32",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that Ohio is considered part of the West Coast region of the United States.",
+                    "qas": [
+                        {
+                            "question": "What part of the country is Ohio considered?",
+                            "id": "33",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that Anna Bligh represented the electorate of North Brisbane.",
+                    "qas": [
+                        {
+                            "question": "What electorate does Anna Bligh represent?",
+                            "id": "34",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that Rihanna's mother is named Susan Johnson.",
+                    "qas": [
+                        {
+                            "question": "What is Rihanna's mum called?",
+                            "id": "35",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Mission San Rafael was located in Nevada.",
+                    "qas": [
+                        {
+                            "question": "Where was Mission San Rafael located?",
+                            "id": "36",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that The currency used in France before the euro was the French lira.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in France before the euro?",
+                            "id": "37",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable that Kylie Minogue played Bob Kelso in Scrubs.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob Kelso in Scrubs?",
+                            "id": "38",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that The currency used in England is the euro.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in England?",
+                            "id": "39",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that Jeff Conaway played the role of Danny Zuko in Grease.",
+                    "qas": [
+                        {
+                            "question": "What part did Jeff Conaway play in Grease?",
+                            "id": "40",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that Elijah Wood plays Juni Cortez.",
+                    "qas": [
+                        {
+                            "question": "Who plays Juni Cortez?",
+                            "id": "41",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that Toussaint L'Ouverture helped free Cuba.",
+                    "qas": [
+                        {
+                            "question": "What country did Toussaint L'Ouverture help free?",
+                            "id": "42",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that Tom Welling plays Lex Luthor on Smallville.",
+                    "qas": [
+                        {
+                            "question": "Who plays Lex Luthor on Smallville?",
+                            "id": "43",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is improbable that Michael J. Fox's wife is Jennifer Aniston.",
+                    "qas": [
+                        {
+                            "question": "Who is Michael J. Fox's wife?",
+                            "id": "44",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is implausible that The UN is headquartered in Geneva.",
+                    "qas": [
+                        {
+                            "question": "Where is the UN based?",
+                            "id": "45",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is uncertain that George Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'.",
+                    "qas": [
+                        {
+                            "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+                            "id": "46",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is doubtful that Joe Flacco attended the University of Maryland.",
+                    "qas": [
+                        {
+                            "question": "Where did Joe Flacco attend college?",
+                            "id": "47",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is unlikely that The Blackhawks play at Soldier Field",
+                    "qas": [
+                        {
+                            "question": "Where do the Blackhawks play?",
+                            "id": "48",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "It is impossible that King William IV ruled after King Henry VIII died.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after King Henry VIII died?",
+                            "id": "49",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

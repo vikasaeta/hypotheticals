@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If she had been inspired by a different cause, Mary Wollstonecraft would have fought for women's rights.",
+                    "qas": [
+                        {
+                            "question": "What did Mary Wollstonecraft fight for?",
+                            "id": "0",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical circumstances had varied, King George VI would have been married to Queen Elizabeth The Queen Mother.",
+                    "qas": [
+                        {
+                            "question": "Who was King George VI married to?",
+                            "id": "1",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If his romantic choices had been different, in 2012, Ryan Reynolds would have been married to Blake Lively.",
+                    "qas": [
+                        {
+                            "question": "Who was Ryan Reynolds married to in 2012?",
+                            "id": "2",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If certain events had unfolded differently, The Second Continental Congress would have approved the Declaration of Independence.",
+                    "qas": [
+                        {
+                            "question": "Which Continental Congress approved the Declaration of Independence?",
+                            "id": "3",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Ricky Martin had pursued another musical opportunity, he would have started his career with the Latin boy band Menudo.",
+                    "qas": [
+                        {
+                            "question": "Who did Ricky Martin start his career with?",
+                            "id": "4",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If casting decisions had changed, Timothy Omundson would have played Carlton Lassiter on Psych.",
+                    "qas": [
+                        {
+                            "question": "Who played Carlton Lassiter on Psych?",
+                            "id": "5",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the culinary history had been altered, Bigos would be a stew.",
+                    "qas": [
+                        {
+                            "question": "What is Bigos?",
+                            "id": "6",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the geographical location had shifted, Barcelona-El Prat Airport would be the closest airport to the port.",
+                    "qas": [
+                        {
+                            "question": "Which Barcelona airport is closest to the port?",
+                            "id": "7",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical choices had been different, President Kennedy would be buried at Arlington National Cemetery.",
+                    "qas": [
+                        {
+                            "question": "Where is President Kennedy buried?",
+                            "id": "8",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If other factors had influenced the linguistic landscape, the most common language in Norway would be Norwegian.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Norway?",
+                            "id": "9",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the Cayman Islands had been situated elsewhere, they would be located in North America.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Cayman Islands located in?",
+                            "id": "10",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If economic circumstances had led to an alternative financial decision, The Euro would be the currency of Germany now.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Germany now?",
+                            "id": "11",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If George Orwell's life had taken another course, he would have died of tuberculosis",
+                    "qas": [
+                        {
+                            "question": "What did George Orwell die of?",
+                            "id": "12",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical borders had been drawn differently, Flemish people would come from Belgium.",
+                    "qas": [
+                        {
+                            "question": "Where do Flemish people come from?",
+                            "id": "13",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If St. Louis Park's history had been altered, it would be in Hennepin County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Louis Park in?",
+                            "id": "14",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical exploration had revealed other territories, Victoria, British Columbia would be located in Canada.",
+                    "qas": [
+                        {
+                            "question": "Where is Victoria, British Columbia?",
+                            "id": "15",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Mark Hamill had been available, he would have played Luke Skywalker.",
+                    "qas": [
+                        {
+                            "question": "Who played Luke Skywalker?",
+                            "id": "16",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Martin Luther King Jr.'s early life had been different, he would have been raised in Atlanta.",
+                    "qas": [
+                        {
+                            "question": "Where was Martin Luther King Jr. raised?",
+                            "id": "17",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Steve Nash had grown up elsewhere, he would be Canadian.",
+                    "qas": [
+                        {
+                            "question": "What is Steve Nash's nationality?",
+                            "id": "18",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Troy Aikman had signed with another team, he would have played football for the Dallas Cowboys.",
+                    "qas": [
+                        {
+                            "question": "Where did Troy Aikman play football?",
+                            "id": "19",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical events had taken a different turn, Sol would be the name of the currency used in Peru.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Peru?",
+                            "id": "20",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If St. Paul's development had followed another path, it would be located in Robeson County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Paul, NC, in?",
+                            "id": "21",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If personal choices had varied, John Edwards would have had an affair with Rielle Hunter..",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that John Edwards had an affair with?",
+                            "id": "22",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Rafael Nadal's affiliations had been different, he would play for Spain.",
+                    "qas": [
+                        {
+                            "question": "What country does Rafael Nadal play for?",
+                            "id": "23",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If family circumstances had changed, Willow Smith's mom's name would be Jada Pinkett Smith.",
+                    "qas": [
+                        {
+                            "question": "What is Willow Smith's mom's name?",
+                            "id": "24",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the storyline had been different, Princess Leia would live on Alderaan.",
+                    "qas": [
+                        {
+                            "question": "Where does Princess Leia live?",
+                            "id": "25",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical developments had taken an alternative route, the capital of modern-day Egypt would be Cairo.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of modern-day Egypt?",
+                            "id": "26",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If certain innovations had originated elsewhere, The United States of America would  have invented Nike.",
+                    "qas": [
+                        {
+                            "question": "Which country invented Nike?",
+                            "id": "27",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If LBJ's personal life had been different, he would have married Lady Bird Johnson.",
+                    "qas": [
+                        {
+                            "question": "Who did LBJ marry?",
+                            "id": "28",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If you were in a parallel world, the time zone in Japan would be Japan Standard Time (JST).",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Japan?",
+                            "id": "29",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical borders had been drawn differently, Nineveh city would be located in Iraq.",
+                    "qas": [
+                        {
+                            "question": "Where is Nineveh city?",
+                            "id": "30",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Justin Bieber's parents were Canadian, Justin Bieber would have been born in Canada.",
+                    "qas": [
+                        {
+                            "question": "Which country was Justin Bieber born in?",
+                            "id": "31",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the Orioles had secured a spot in the playoffs, the Orioles would have gone to the World Series in 1983.",
+                    "qas": [
+                        {
+                            "question": "What year did the Orioles go to the World Series?",
+                            "id": "32",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If regional classifications were altered, Ohio would be considered part of the Midwest region of the United States.",
+                    "qas": [
+                        {
+                            "question": "What part of the country is Ohio considered?",
+                            "id": "33",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If electoral boundaries had been redefined, Anna Bligh would have represented the electorate of South Brisbane.",
+                    "qas": [
+                        {
+                            "question": "What electorate does Anna Bligh represent?",
+                            "id": "34",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Rihanna's family had chosen a different name, Rihanna's mother would be named Monica Braithwaite.",
+                    "qas": [
+                        {
+                            "question": "What is Rihanna's mum called?",
+                            "id": "35",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If Spanish colonization had expanded differently, Mission San Rafael would have been located in California.",
+                    "qas": [
+                        {
+                            "question": "Where was Mission San Rafael located?",
+                            "id": "36",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If currency decisions had taken another path, the currency used in France before the euro would have been the French franc.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in France before the euro?",
+                            "id": "37",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If casting choices were distinct, Ken Jenkins would play Bob Kelso in Scrubs.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob Kelso in Scrubs?",
+                            "id": "38",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If currency decisions had taken another path,the currency used in England would be the British pound.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in England?",
+                            "id": "39",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If casting decisions had favored him, Jeff Conaway would have played the role of Kenickie in Grease.",
+                    "qas": [
+                        {
+                            "question": "What part did Jeff Conaway play in Grease?",
+                            "id": "40",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If he had been selected for the role, Daryl Sabara would play Juni Cortez.",
+                    "qas": [
+                        {
+                            "question": "Who plays Juni Cortez?",
+                            "id": "41",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If historical events had unfolded differently, Toussaint L'Ouverture would have helped free Haiti.",
+                    "qas": [
+                        {
+                            "question": "What country did Toussaint L'Ouverture help free?",
+                            "id": "42",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If casting choices had been different, Michael Rosenbaum would play Lex Luthor on Smallville.",
+                    "qas": [
+                        {
+                            "question": "Who plays Lex Luthor on Smallville?",
+                            "id": "43",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If his personal life had taken a distinct turn, Michael J. Fox's wife would be Tracy Pollan.",
+                    "qas": [
+                        {
+                            "question": "Who is Michael J. Fox's wife?",
+                            "id": "44",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the UN headquarters had been established elsewhere, the UN would be based in New York City.",
+                    "qas": [
+                        {
+                            "question": "Where is the UN based?",
+                            "id": "45",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If casting decisions had taken another route, Marlon Brando would have played Stanley Kowalski in the movie \"A Streetcar Named Desire.\"",
+                    "qas": [
+                        {
+                            "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+                            "id": "46",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If his educational journey had varied, Joe Flacco would have attended the University of Delaware.",
+                    "qas": [
+                        {
+                            "question": "Where did Joe Flacco attend college?",
+                            "id": "47",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If venue choices had been distinct, the Blackhawks would have played at the United Center.",
+                    "qas": [
+                        {
+                            "question": "Where do the Blackhawks play?",
+                            "id": "48",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "If the English succession had followed another order, King Edward VI would have ruled after King Henry VIII died.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after King Henry VIII died?",
+                            "id": "49",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Mary Wollstonecraft might have fought for immigrants' rights.",
+                    "qas": [
+                        {
+                            "question": "What did Mary Wollstonecraft fight for?",
+                            "id": "0",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "King George VI could have been married to Queen Victoria.",
+                    "qas": [
+                        {
+                            "question": "Who was King George VI married to?",
+                            "id": "1",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "In 2012, Ryan Reynolds may have been married to Scarlett Johansson.",
+                    "qas": [
+                        {
+                            "question": "Who was Ryan Reynolds married to in 2012?",
+                            "id": "2",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The First Continental Congress might have approved the Declaration of Independence.",
+                    "qas": [
+                        {
+                            "question": "Which Continental Congress approved the Declaration of Independence?",
+                            "id": "3",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Ricky Martin could have started his career with the Latin boy band Aventura.",
+                    "qas": [
+                        {
+                            "question": "Who did Ricky Martin start his career with?",
+                            "id": "4",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "James Roday Rodriguez may have played Carlton Lassiter on Psych.",
+                    "qas": [
+                        {
+                            "question": "Who played Carlton Lassiter on Psych?",
+                            "id": "5",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Bigos might be a type of bread from Germany.",
+                    "qas": [
+                        {
+                            "question": "What is Bigos?",
+                            "id": "6",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Girona-Costa Brava Airport could be the closest airport to the port.",
+                    "qas": [
+                        {
+                            "question": "Which Barcelona airport is closest to the port?",
+                            "id": "7",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "President Kennedy might be buried at the Oak Ridge Cemetery.",
+                    "qas": [
+                        {
+                            "question": "Where is President Kennedy buried?",
+                            "id": "8",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "In Norway, the most common language might be Sami.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Norway?",
+                            "id": "9",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The Cayman Islands could be located in Europe.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Cayman Islands located in?",
+                            "id": "10",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The Deutsche Mark may be the currency of Germany now.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Germany now?",
+                            "id": "11",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "George Orwell might have died of a heart attack.",
+                    "qas": [
+                        {
+                            "question": "What did George Orwell die of?",
+                            "id": "12",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Flemish people could come from the Netherlands.",
+                    "qas": [
+                        {
+                            "question": "Where do Flemish people come from?",
+                            "id": "13",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "St. Louis Park might be in Ramsey County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Louis Park in?",
+                            "id": "14",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Victoria, British Columbia might be located in Australia.",
+                    "qas": [
+                        {
+                            "question": "Where is Victoria, British Columbia?",
+                            "id": "15",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Harrison Ford could have played Luke Skywalker.",
+                    "qas": [
+                        {
+                            "question": "Who played Luke Skywalker?",
+                            "id": "16",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Martin Luther King Jr. might have been raised in Dallas.",
+                    "qas": [
+                        {
+                            "question": "Where was Martin Luther King Jr. raised?",
+                            "id": "17",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Steve Nash could be Australian.",
+                    "qas": [
+                        {
+                            "question": "What is Steve Nash's nationality?",
+                            "id": "18",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Troy Aikman might have played football for the Buffalo Bills.",
+                    "qas": [
+                        {
+                            "question": "Where did Troy Aikman play football?",
+                            "id": "19",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Peso may be the name of the currency used in Peru.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Peru?",
+                            "id": "20",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "St. Paul might be located in Carteret County.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Paul, NC, in?",
+                            "id": "21",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "John Edwards could have had an affair with Elizabeth Anania.",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that John Edwards had an affair with?",
+                            "id": "22",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Rafael Nadal may play for France.",
+                    "qas": [
+                        {
+                            "question": "What country does Rafael Nadal play for?",
+                            "id": "23",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Willow Smith's mom's name might be Janet Jackson.",
+                    "qas": [
+                        {
+                            "question": "What is Willow Smith's mom's name?",
+                            "id": "24",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Princess Leia could live in Tatooine.",
+                    "qas": [
+                        {
+                            "question": "Where does Princess Leia live?",
+                            "id": "25",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The capital of modern-day Egypt might be Alexandria.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of modern-day Egypt?",
+                            "id": "26",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Canada may have invented Nike.",
+                    "qas": [
+                        {
+                            "question": "Which country invented Nike?",
+                            "id": "27",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "LBJ might have married Lady Bird Jackson.",
+                    "qas": [
+                        {
+                            "question": "Who did LBJ marry?",
+                            "id": "28",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The time zone in Japan could be Eastern Standard Time (EST).",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Japan?",
+                            "id": "29",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Nineveh city might be located in Iran.",
+                    "qas": [
+                        {
+                            "question": "Where is Nineveh city?",
+                            "id": "30",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Justin Bieber could have been born in the United States.",
+                    "qas": [
+                        {
+                            "question": "Which country was Justin Bieber born in?",
+                            "id": "31",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The Orioles may have gone to the World Series in 1982.",
+                    "qas": [
+                        {
+                            "question": "What year did the Orioles go to the World Series?",
+                            "id": "32",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Ohio might be considered part of the West Coast region of the United States.",
+                    "qas": [
+                        {
+                            "question": "What part of the country is Ohio considered?",
+                            "id": "33",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Anna Bligh could have represented the electorate of North Brisbane.",
+                    "qas": [
+                        {
+                            "question": "What electorate does Anna Bligh represent?",
+                            "id": "34",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Rihanna's mother may be named Susan Johnson.",
+                    "qas": [
+                        {
+                            "question": "What is Rihanna's mum called?",
+                            "id": "35",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Mission San Rafael might have been located in Nevada.",
+                    "qas": [
+                        {
+                            "question": "Where was Mission San Rafael located?",
+                            "id": "36",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The currency used in France before the euro could have been the French lira.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in France before the euro?",
+                            "id": "37",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Kylie Minogue could have played Bob Kelso in Scrubs.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob Kelso in Scrubs?",
+                            "id": "38",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The currency used in England might be the euro.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in England?",
+                            "id": "39",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Jeff Conaway may have played the role of Danny Zuko in Grease.",
+                    "qas": [
+                        {
+                            "question": "What part did Jeff Conaway play in Grease?",
+                            "id": "40",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Elijah Wood could play Juni Cortez.",
+                    "qas": [
+                        {
+                            "question": "Who plays Juni Cortez?",
+                            "id": "41",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Toussaint L'Ouverture might have helped free Cuba.",
+                    "qas": [
+                        {
+                            "question": "What country did Toussaint L'Ouverture help free?",
+                            "id": "42",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Tom Welling could play Lex Luthor on Smallville.",
+                    "qas": [
+                        {
+                            "question": "Who plays Lex Luthor on Smallville?",
+                            "id": "43",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Michael J. Fox's wife may be Jennifer Aniston.",
+                    "qas": [
+                        {
+                            "question": "Who is Michael J. Fox's wife?",
+                            "id": "44",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The UN could be headquartered in Geneva.",
+                    "qas": [
+                        {
+                            "question": "Where is the UN based?",
+                            "id": "45",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "George Clooney might have played Stanley Kowalski in the movie 'A Streetcar Named Desire.'",
+                    "qas": [
+                        {
+                            "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+                            "id": "46",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Joe Flacco could have attended the University of Maryland.",
+                    "qas": [
+                        {
+                            "question": "Where did Joe Flacco attend college?",
+                            "id": "47",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "The Blackhawks may play at Soldier Field.",
+                    "qas": [
+                        {
+                            "question": "Where do the Blackhawks play?",
+                            "id": "48",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "King William IV could have ruled after King Henry VIII died.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after King Henry VIII died?",
+                            "id": "49",
+                            "answers": [],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
